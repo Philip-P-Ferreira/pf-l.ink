@@ -1,9 +1,9 @@
-name = "vhlink"
+name = "pf-link"
 type = "javascript"
-account_id = "39a76d640a29996bffbd58c36a537c2b"
+account_id = "1689bc3379109e3f563c5f9dcc799dca"
 workers_dev = true
 route = ""
 zone_id = ""
 kv_namespaces = [
-  { binding = "LINKS", id = "77612e844ef647009a28a1153fcd0a96", preview_id = "77612e844ef647009a28a1153fcd0a96" }
+  { binding = "LINKS", id = "1ab94406a8084608a34f5d8f806adf68", preview_id = "1ab94406a8084608a34f5d8f806adf68" }
 ]
