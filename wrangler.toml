@@ -1,9 +1,9 @@
 name = "pf-link"
 type = "javascript"
-account_id = "1689bc3379109e3f563c5f9dcc799dca"
+account_id = ""
 workers_dev = true
 route = ""
 zone_id = ""
 kv_namespaces = [
-  { binding = "LINKS", id = "1ab94406a8084608a34f5d8f806adf68", preview_id = "1ab94406a8084608a34f5d8f806adf68" }
+  { binding = "LINKS", id = "", preview_id = "" }
 ]
